@@ -19,17 +19,18 @@ Sorting Algorithms with php
 
 ### Running the solutions
 #### Bubble Sort
-     `php src/bubble/index.php`
+
+     php src/bubble/index.php
 #### Hear Sort
-    * `php src/heap/index.php`
+    php src/heap/index.php
 #### Insertion Sort
-    * `php src/insertion/index.php`
+    php src/insertion/index.php
 #### Merge Sort
-    * `php src/merge/index.php`
+    php src/merge/index.php
 #### Recursive
-    * `php src/recursive/index.php`
+    php src/recursive/index.php
 #### Selection
-    * `php src/selection/index.php`
+    php src/selection/index.php
 
 ## Support
 
