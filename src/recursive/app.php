@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\Part1;
+namespace Src\Recursive;
 
 function app($data, $depth = 1)
 {

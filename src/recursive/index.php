@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . './../../vendor/autoload.php';
 
-use function Src\Part1\app;
+use function Src\Recursive\app;
 
 $key = [
     'key1' => 1,
