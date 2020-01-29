@@ -1,0 +1,18 @@
+{
+	"name": "kawsar/scratch",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Kawsar",
+			"email": "kawsar.diu888@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"files": [
+			"src/part-1/app.php",
+			"src/insertion/app.php",
+			"src/bubble/app.php"
+		]
+	}
+}
