@@ -1,6 +1,6 @@
 <?php
 
-namespace Bubble;
+namespace Src\Bubble;
 
 function bubble($data)
 {

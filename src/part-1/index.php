@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . './../../vendor/autoload.php';
 
-use function Part1\app;
+use function Src\Part1\app;
 
 $key = [
     'key1' => 1,

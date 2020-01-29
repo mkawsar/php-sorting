@@ -1,6 +1,6 @@
 <?php
 
-namespace Insertion;
+namespace Src\Insertion;
 
 function insertion($data)
 {

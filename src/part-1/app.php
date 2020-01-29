@@ -1,6 +1,6 @@
 <?php
 
-namespace Part1;
+namespace Src\Part1;
 
 function app($data, $depth = 1)
 {
