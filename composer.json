@@ -1,5 +1,5 @@
 {
-    "name": "kawsar/scratch",
+    "name": "php/scratch",
     "license": "MIT",
     "authors": [
         {
@@ -7,15 +7,17 @@
             "email": "kawsar.diu888@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "files": [
             "src/bubble/app.php",
             "src/heap/app.php",
             "src/insertion/app.php",
             "src/merge/app.php",
-            "src/part-1/app.php",
+            "src/recursive/app.php",
             "src/selection/app.php"
         ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
     }
 }

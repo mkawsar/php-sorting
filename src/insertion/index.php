@@ -5,4 +5,4 @@ use function Src\Insertion\insertion;
 
 $array = [3, 0, 2, 5, -1, 4, 1];
 
-insertion($array);
+print_r(insertion($array));

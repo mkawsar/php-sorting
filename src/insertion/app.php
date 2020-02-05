@@ -15,5 +15,5 @@ function insertion($data)
             $data[$j + 1] = $val;
         }
     }
-    print_r($data);
+    return $data;
 }
